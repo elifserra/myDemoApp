@@ -34,11 +34,11 @@ public class App
         String str_to_return = "";
 
 
-        // boş array kontrolü
-        // null string elemanı kontrolü
-        // negatif sayı gelmesi kontrolü
+        // boş array kontrolü +
+        // null string elemanı kontrolü +
+        // negatif sayı gelmesi kontrolü +
         // n out of bound kontrolü
-        // doğru çalışan bi normal test
+        // doğru çalışan bi normal test +
         if (str != null && str.size() != 0) {
             for (int i = 0; i < str.size(); i++) {
 
