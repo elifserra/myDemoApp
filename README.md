@@ -25,7 +25,7 @@ The 5 tests provided control the following 5 situations:
 5) integer n out of bounds test
 further tests can be added
 
-Travis link:
+Travis link provided:
 [![Build Status](https://app.travis-ci.com/elifserra/myDemoApp.svg?token=YkFoSbxzCs7bp1JQQBJs&branch=main)](https://app.travis-ci.com/elifserra/myDemoApp)
 
 
