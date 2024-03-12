@@ -23,7 +23,7 @@ The 5 tests provided control the following 5 situations:
 3) null string in the string arraylist test
 4) negative integer n test
 5) integer n out of bounds test
-further tests can be added.
+further tests can be added
 
 Travis link:
 [![Build Status](https://app.travis-ci.com/elifserra/myDemoApp.svg?token=YkFoSbxzCs7bp1JQQBJs&branch=main)](https://app.travis-ci.com/elifserra/myDemoApp)
