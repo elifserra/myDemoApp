@@ -12,4 +12,7 @@ call the search() method of App.java via the instance,
 provide the initialized ArrayList and the integer you are searching,
 you can print the output on the screen (true/false) to see the result of your search.
 
+Travis link:
+[![Build Status](https://app.travis-ci.com/elifserra/myDemoApp.svg?token=YkFoSbxzCs7bp1JQQBJs&branch=main)](https://app.travis-ci.com/elifserra/myDemoApp)
+
 
